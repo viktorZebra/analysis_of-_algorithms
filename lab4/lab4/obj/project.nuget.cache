@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kTfFgdsORwUGyPtlEEbr5escNAC839rJFIy3aqKrhX5LLD0aJmpbHx34H3IQFOcEo+H7hKLzdidpBOZvGKUr+w==",
+  "success": true,
+  "projectFilePath": "C:\\Student_work\\C#\\AnAl\\analysis_of-_algorithms\\lab4\\lab4\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Артем\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Student_work\C#\AnAl\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Student_work\C#\AnAl\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Student_work\C#\AnAl\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Student_work\C#\AnAl\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Student_work\C#\AnAl\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Student_work\C#\AnAl\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Student_work\C#\AnAl\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csprojAssemblyReference.cache
+C:\Student_work\C#\AnAl\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Student_work\C#\AnAl\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Student_work\C#\AnAl\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Student_work\C#\AnAl\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Student_work\C#\AnAl\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Student_work\C#\AnAl\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
